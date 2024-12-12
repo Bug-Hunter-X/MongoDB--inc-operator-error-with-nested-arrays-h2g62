@@ -1,0 +1,1 @@
+This example demonstrates a common error when using the $inc operator with nested arrays in MongoDB.  The provided solution shows how to correctly update the nested array element, handling cases where the element might not exist.
